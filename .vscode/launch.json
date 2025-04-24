@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-FootballStatsApplication<football-stats>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.football_stats.FootballStatsApplication",
+            "projectName": "football-stats",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
